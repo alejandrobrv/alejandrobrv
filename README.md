@@ -1,14 +1,33 @@
-<!-- **alejandroway/alejandroway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->https://github.com/alejandroway/alejandroway/blob/master/README.md
+<sub>ENGLISH · <a href="./README.es.md">ESPAÑOL</a></sub>
 
-### I'm Alejandro,
+## Alejandro Osorio
 
-Software Engineer with experience building robust and scalable APIs using FastAPI and Python, with knowledge of Next.js for full-stack integration. I specialize in automation, developing trading bots, real-time data handling (WebSockets), and financial API integrations. My focus is on performance, efficiency, and clean software architecture-delivering reliable solutions that power algorithmic trading and data-driven systems.
+**Software engineer · Backend systems & automation**
 
-### Contact me  
-- [LinkedIn](https://www.linkedin.com/in/alejandroway/)  
-- [Telegram](https://t.me/thealejandroway)  
+I build backend services with Python and FastAPI, focusing on API design, real-time data processing and financial integrations. My work includes trading bots, automated workflows and Next.js interfaces connected to backend services.
 
+### Engineering focus
 
-<!-- Github  Stats -->
-[![alejandroway's Github Stats](https://github-readme-stats.vercel.app/api?username=alejandroway&show_icons=true&include_all_commits=false&theme=radical&count_private=true&rank_icon=github&hide_rank=false&card_width=400&line_height=28&hide_border=true&title_color=E4D00A&text_bold=false&icon_color=E4D00A)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroway&langs_count=5&theme=radical&layout=donut&hide_title=false&hide_border=true&title_color=E4D00A&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+- **APIs & architecture** — Clear service boundaries, maintainable code and reliable integrations.
+- **Real-time systems** — WebSocket connections and market data processing.
+- **Automation & trading** — Trading bots, financial APIs and repeatable data workflows.
+- **Full-stack integration** — Connecting Next.js applications to backend services.
+
+### Core stack
+
+`Python` · `FastAPI` · `Next.js` · `REST APIs` · `WebSockets`
+
+I care about predictable behavior, performance and keeping systems straightforward to operate and extend.
+
+---
+
+[Portfolio](https://alejandro.beariver.co/) &nbsp; · &nbsp; [Email](mailto:alejandro@beariver.co) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/alejandroway/) &nbsp; · &nbsp; [Telegram](https://t.me/thealejandroway)
+
+<details>
+<summary>GitHub activity</summary>
+
+[![Alejandro's GitHub activity](https://github-readme-stats.vercel.app/api?username=alejandroway&show_icons=true&include_all_commits=false&rank_icon=github&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6&icon_color=73b8ad&text_bold=false)](https://github.com/alejandroway?tab=repositories)
+
+[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroway&langs_count=5&layout=compact&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6)](https://github.com/alejandroway?tab=repositories)
+
+</details>
