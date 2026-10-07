@@ -21,7 +21,7 @@ I care about predictable behavior, performance and keeping systems straightforwa
 
 ---
 
-[Portfolio](https://alejandro.beariver.co/) &nbsp; · &nbsp; [Email](mailto:alejandro@beariver.co) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/alejandrobrver/) &nbsp; · &nbsp; [Telegram](https://t.me/thealejandrobrvr)
+[Portfolio](https://alejandro.beariver.co/) &nbsp; · &nbsp; [Email](mailto:alejandro@beariver.co) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/alejandrobrver/) &nbsp; · &nbsp; [Telegram](https://t.me/lejandrobrvr)
 
 <details>
 <summary>GitHub activity</summary>
