@@ -1,6 +1,6 @@
 <sub>ENGLISH · <a href="./README.es.md">ESPAÑOL</a></sub>
 
-## Alejandro Osorio
+## Alejandro Beariver
 
 **Software engineer · Backend systems & automation**
 
@@ -21,13 +21,13 @@ I care about predictable behavior, performance and keeping systems straightforwa
 
 ---
 
-[Portfolio](https://alejandro.beariver.co/) &nbsp; · &nbsp; [Email](mailto:alejandro@beariver.co) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/alejandroway/) &nbsp; · &nbsp; [Telegram](https://t.me/thealejandroway)
+[Portfolio](https://alejandro.beariver.co/) &nbsp; · &nbsp; [Email](mailto:alejandro@beariver.co) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/alejandrobrver/) &nbsp; · &nbsp; [Telegram](https://t.me/thealejandrobrvr)
 
 <details>
 <summary>GitHub activity</summary>
 
-[![Alejandro's GitHub activity](https://github-readme-stats.vercel.app/api?username=alejandroway&show_icons=true&include_all_commits=false&rank_icon=github&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6&icon_color=73b8ad&text_bold=false)](https://github.com/alejandroway?tab=repositories)
+[![Alejandro's GitHub activity](https://github-readme-stats.vercel.app/api?username=alejandrobrv&show_icons=true&include_all_commits=false&rank_icon=github&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6&icon_color=73b8ad&text_bold=false)](https://github.com/alejandrobrv?tab=repositories)
 
-[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroway&langs_count=5&layout=compact&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6)](https://github.com/alejandroway?tab=repositories)
+[![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrobrv&langs_count=5&layout=compact&hide_border=true&bg_color=0b151e&title_color=e8eeef&text_color=a2adb6)](https://github.com/alejandrobrv?tab=repositories)
 
 </details>
